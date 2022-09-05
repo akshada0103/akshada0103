@@ -3,6 +3,7 @@
 - I’m currently working on making a portfolio for a Data Analyst profile ...
 - linkedIn - https://www.linkedin.com/in/akshada-agnihotri/
 - Tableau - https://public.tableau.com/app/profile/akshada1442
+- portfolio - https://medium.com/@akshadaagnihotri01
 
 <!---
 akshada0103/akshada0103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
